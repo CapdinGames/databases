@@ -1,0 +1,6 @@
+{"mamalia":[
+    {"Orders":"Monotremata", "Didelphimorphia", "Dasyuromorphia", "Diprotodontia", "Proboscidea", "Sirenia", "Cingulata", "Pilosa", "Primates", "Rodentia", "Lagomorpha", "Incectivorous", "Chiroptera", "Pholidota", "Carnivores", "Cetacea", "Artiodactyla", "Perissodactyla"},
+    {"SubOrder":"Afrotheria", "Xenarthra", "Euarchontoglires", "Laurasiatheria"},
+	  {"SubClass":"Prothoteria", "Theria"},
+	  {"InterClass":"Marsupialia", "Placentalia"}    
+]}
